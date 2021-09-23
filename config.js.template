@@ -1,0 +1,2 @@
+exprots.token = "자신의 봇 토큰"
+exports.prefix = "자신의 봇 접두사"
